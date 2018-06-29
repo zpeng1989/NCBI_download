@@ -1,0 +1,5 @@
+[Title]
+LncRNA PCGEM1 Induces Ovarian Carcinoma Tumorigenesis and Progression Through RhoA Pathway.
+
+[Astract]
+BACKGROUND/AIMS:Prostate cancer gene expression marker 1 (PCGEM1) is a long noncoding RNA (lncRNA) and is well known as a promoter in prostate cancer and osteoarthritis synoviocytes. However, the role PCGEM1 plays in epithelial ovarian cancer is unknown.

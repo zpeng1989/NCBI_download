@@ -1,0 +1,5 @@
+[Title]
+MiR-592 Promotes Gastric Cancer Proliferation, Migration, and Invasion Through the PI3K/AKT and MAPK/ERK Signaling Pathways by Targeting Spry2.
+
+[Astract]
+BACKGROUND/AIMS:Gastric cancer (GC) is one of the most prevalent digestive malignancies. MicroRNAs (miRNAs) are involved in multiple cellular processes, including oncogenesis, and miR-592 itself participates in many malignancies; however, its role in GC remains unknown. In this study, we investigated the expression and molecular mechanisms of miR-592 in GC.

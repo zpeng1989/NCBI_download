@@ -1,0 +1,5 @@
+[Title]
+Patrinia scabiosaefolia Inhibits Growth of 5-FU-Resistant Colorectal Carcinoma Cells via Induction of Apoptosis and Suppression of AKT Pathway.
+
+[Astract]
+OBJECTIVE:To investigate the effects of ethanol extract of Patrinia scabiosaefolia (EEPS) on chemo-resistance of colorectal cancer cells (CRC) and explore the possible molecular mechanisms.

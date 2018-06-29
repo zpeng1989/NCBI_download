@@ -1,0 +1,5 @@
+[Title]
+The long noncoding RNA BC0209135 inhibits the cell invasion through Wnt/β-catenin signaling in colorectal cancer.
+
+[Astract]
+OBJECTIVE:  Previous studies have shown that BC029135, a long noncoding RNA (lncRNA) with high conservation, was decreased with high fold change in colorectal cancer (CRC) by using microarray assay. In the present work, we investigated the functions of BC029135 in CRC, as well as the potential mechanisms underlying the malignant phenotype caused by loss of BC029135.

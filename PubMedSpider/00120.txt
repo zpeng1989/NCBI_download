@@ -1,0 +1,5 @@
+[Title]
+Stromal collagen type VI associates with features of malignancy and predicts poor prognosis in salivary gland cancer.
+
+[Astract]
+PURPOSE:Collagen Type VI (COLVI) is an extracellular matrix protein that is upregulated in various solid tumours during tumour progression and has been shown to stimulate proliferation, suppress apoptosis and promote invasion and metastasis. It has also been described as a mediator of chemotherapy resistance and as a therapeutic target in preclinical cancer models. Here, we aimed to analyse the prognostic role of COLVI in salivary gland cancer (SGC).

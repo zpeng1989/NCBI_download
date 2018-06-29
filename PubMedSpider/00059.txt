@@ -1,0 +1,5 @@
+[Title]
+Therapeutic Doses of Eltrombopag do not Inhibit Hepatic BCRP in Healthy Volunteers: Intravenous Ceftriaxone as a Model.
+
+[Astract]
+PURPOSE:Ceftriaxone elimination occurs through breast cancer resistance transporter (BCRP) and multidrug resistance-associated protein 2 (MRP-2) which are expressed on the canalicular membrane of hepatocytes. Eltrombopag, a thrombopoetin receptor agonist used in the treatment of immune thrombocytopenic purpura, is reported in in vitro studies as an inhibitor of intestinal BCRP but not an inhibitor of hepatic BCRP. Thus, the present study evaluates the effect of therapeutic doses of eltrombopag on the clinical pharmacokinetics of intravenous ceftriaxone.

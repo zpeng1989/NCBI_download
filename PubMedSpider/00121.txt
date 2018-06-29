@@ -1,0 +1,5 @@
+[Title]
+Targeting glucose transport and the NAD pathway in tumor cells with STF-31: a re-evaluation.
+
+[Astract]
+BACKGROUND:Targeting glucose metabolism is a promising way to interfere with tumor cell proliferation and survival. However, controversy exists about the specificity of some glucose metabolism targeting anticancer drugs. Especially the potency of STF-31 has been debated. Here, we aimed to assess the impact of the glucose transporter (GLUT) inhibitors fasentin and WZB117, and the nicotinamide phosphoribosyltransferase (NAMPT) inhibitors GMX1778 and STF-31 on tumor cell proliferation and survival, as well as on glucose uptake.

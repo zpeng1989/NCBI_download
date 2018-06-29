@@ -1,0 +1,5 @@
+[Title]
+Risk stratification based on J-ACCESS risk models with myocardial perfusion imaging: Risk versus outcomes of patients with chronic kidney disease.
+
+[Astract]
+BACKGROUND:This study aimed to validate the accuracy of major-event risk models created in the multicenter J-ACCESS prognostic study in a new cohort of patients with chronic kidney disease (CKD).

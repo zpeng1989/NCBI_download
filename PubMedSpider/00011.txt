@@ -1,0 +1,5 @@
+[Title]
+Genome-Wide Identification of Circular RNAs as a Novel Class of Putative Biomarkers for an Ocular Surface Disease.
+
+[Astract]
+BACKGROUND/AIMS:Pterygium is a common ocular surface disease with an unknown etiology and threatens vision as it invades into the cornea. Circular RNAs (circRNAs) are a novel class of RNA transcripts that participate in several physiological and pathological processes. However, the role of circRNAs in pathogenesis of pterygium remains largely unknown.

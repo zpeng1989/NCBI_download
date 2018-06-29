@@ -1,0 +1,5 @@
+[Title]
+Epstein-Barr Virus Antibody Titers Are Not Associated with Gastric Cancer Risk in East Asia.
+
+[Astract]
+BACKGROUND:Epstein-Barr virus (EBV)-positive gastric cancers represent a distinct subtype of gastric cancers and account for nearly 10% of the gastric cancer burden, yet risk detection strategies for this cancer subtype are lacking.

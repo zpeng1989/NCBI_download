@@ -1,0 +1,5 @@
+[Title]
+OX40L gene polymorphism and breast cancer in Iranian population.
+
+[Astract]
+BACKGROUND AND AIM:The immune system plays an important role in the breast cancer development. OX40L (also known as TNFSF4), a membrane protein, which is a member of the tumor necrosis factor super family binds to its receptor OX40 and this co-stimulation has a crucial role in T cell proliferation, survival and cytokine release. Previous studies have shown that OX40L is associated with cancer. Due to the importance of the T cells in antitumor activities of OX40L we studied the association of rs3850641 (A→G) polymorphism of OX40L gene with the breast cancer.

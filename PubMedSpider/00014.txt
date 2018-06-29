@@ -1,0 +1,5 @@
+[Title]
+Pathway Analysis Hints Towards Beneficial Effects of Long-Term Vibration on Human Chondrocytes.
+
+[Astract]
+BACKGROUND/AIMS:Spaceflight negatively influences the function of cartilage tissue in vivo. In vitro human chondrocytes exhibit an altered gene expression of inflammation markers after a two-hour exposure to vibration. Little is known about the impact of long-term vibration on chondrocytes.

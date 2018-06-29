@@ -1,0 +1,5 @@
+[Title]
+MiR-203 over-expression promotes prostate cancer cell apoptosis and reduces ADM resistance.
+
+[Astract]
+OBJECTIVE:Extra-cellular signal regulated kinase (ERK)/mitogen activated protein kinase (MAPK) signaling pathway is widely involved in cell proliferation, apoptosis, and drug resistance. MAPK kinase 1 (MEK1) is the upstream protein kinase of ERK that can activate ERK/MAPK signaling pathway. microRNA 203 (MiR-203) down-regulation is found to be associated with prostate cancer pathogenesis. Bioinformatics analysis showed the complementary targeted relationship between miR-203 and the 3'-UTR of MEK1 mRNA. This study explored the role of miR-203 in regulating prostate cancer cell proliferation, apoptosis, and ADM resistance through affecting MEK1 expression.

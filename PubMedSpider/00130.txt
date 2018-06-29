@@ -1,0 +1,5 @@
+[Title]
+Serum calcitonin gene-related peptide facilitates adipose tissue lipolysis during exercise via PIPLC/IP3 pathways.
+
+[Astract]
+PURPOSE:Calcitonin gene-related peptide (CGRP) is formed by alternative transcription of the calcitonin/α-CGRP gene, which also gives rise to calcitonin (CT). Recently, CGRP has been the focus of research for its metabolic effects in vitro. In the present study, the in vivo effects of CGRP on epididymal fat pads lipolysis at rest and during exercise were investigated in trained male Wistar rats.

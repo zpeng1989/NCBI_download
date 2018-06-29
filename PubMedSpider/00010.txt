@@ -1,0 +1,5 @@
+[Title]
+Sodium Butyrate Attenuates Diarrhea in Weaned Piglets and Promotes Tight Junction Protein Expression in Colon in a GPR109A-Dependent Manner.
+
+[Astract]
+BACKGROUND/AIMS:Butyric acid plays an important role in maintaining intestinal health. Butyric acid has received special attention as a short-chain fatty acid, but its role in protecting the intestinal barrier is poorly characterized. Butyric acid not only provides energy for epithelial cells but also acts as a histone deacetylase inhibitor; it is also a natural ligand for G protein-coupled receptor 109A (GPR109A). A GPR109A analog was expressed in Sus scrofa and mediated the anti-inflammatory effects of beta-hydroxybutyric acid. This study investigated the effects of butyrate on growth performance, diarrhea symptoms, and tight junction protein levels in 21-day-old weaned piglets. We also studied the mechanism by which butyric acid regulates intestinal permeability.

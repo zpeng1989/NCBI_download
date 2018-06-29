@@ -1,0 +1,5 @@
+[Title]
+PKD Phosphorylation as Novel Pathway of KV11.1 Regulation.
+
+[Astract]
+BACKGROUND/AIMS:The voltage-gated potassium channel KV11.1 has been originally cloned from the brain and is expressed in a variety of tissues. The role of phosphorylation for channel function is a matter of debate. In this study, we aimed to elucidate the extent and role of protein kinase D mediated phosphorylation.

@@ -1,0 +1,5 @@
+[Title]
+OCT1-Mediated Metformin Uptake Regulates Pancreatic Stellate Cell Activity.
+
+[Astract]
+BACKGROUND/AIMS:Metformin treatment is reported to be associated with a lower incidence of and mortality from pancreatic cancer (PC) in type 2 diabetes patients. Activated pancreatic stellate cells (PSCs) are key stroma cells responsible for pancreatic fibrogenesis and PC progression. However, little research is about the influence of metformin on PSCs. Given the potential beneficial effects of metformin on PC, pancreatic tumour stroma is an important target for new therapeutics. We observed the effects of metformin on PSCs. We investigated the effects of metformin on human PSCs proliferation and the production of extracellular matrix (ECM) proteins.

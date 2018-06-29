@@ -1,0 +1,5 @@
+[Title]
+Effects of miR-223 on colorectal cancer cell proliferation and apoptosis through regulating FoxO3a/BIM.
+
+[Astract]
+OBJECTIVE:Colorectal cancer is a common malignant tumor of the digestive tract. It frequently occurs at the junction of the rectum and sigmoid colon. It is characterized by high mortality and poor prognosis. Bcl-2 interacting mediator of cell death (BIM) plays a role in the regulation of cell proliferation and apoptosis, and involves in the pathogenesis of colorectal cancer. The transcription factor forkhead, transcription factor O subfamily 3a (FoxO3a) plays a role in the regulation of BIM expression and is associated to the pathogenesis of colorectal cancer. Bioinformatics analysis suggests that there is a targeted relationship between FoxO3a and microRNA-223 (miR-223). This study aims to investigate effects of miR-223 on the regulation of FoxO3a/BIM signaling pathway and colorectal cancer cell proliferation and apoptosis.

@@ -1,0 +1,5 @@
+[Title]
+Downregulation of leptin receptor and kisspeptin/GPR54 in the murine hypothalamus contributes to male hypogonadism caused by high-fat diet-induced obesity.
+
+[Astract]
+PURPOSE:Obesity may lead to male hypogonadism, the underlying mechanism of which remains unclear. In the present study, we established a murine model of male hypogonadism caused by high-fat diet-induced obesity to verify the following hypotheses: 1) an increased leptin level may be related to decreased secretion of GnRH in obese males, and 2) repression of kisspeptin/GPR54 in the hypothalamus, which is associated with increased leptin levels, may account for the decreased secretion of GnRH and be involved in secondary hypogonadism (SH) in obese males.

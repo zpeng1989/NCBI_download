@@ -1,0 +1,5 @@
+[Title]
+FoxM1 is regulated by both HIF-1α and HIF-2α and contributes to gastrointestinal stromal tumor progression.
+
+[Astract]
+BACKGROUND:FoxM1 plays important regulatory roles in a variety of diseases. However, the functional role of FoxM1 and mechanisms responsible for its expression in gastrointestinal stromal tumor (GIST) is not thoroughly understood.

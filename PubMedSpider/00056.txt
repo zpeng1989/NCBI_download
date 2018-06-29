@@ -1,0 +1,5 @@
+[Title]
+Intersection between genes controlling vascularization and angiogenesis in renal cell carcinomas.
+
+[Astract]
+AIM:To show that application of the systemic analysis may significantly improve comparison of different datasets. Different genes and proteins may converge on the same functional outputs. A comparison of 2 datasets by only identification names of affected molecules may miss that, leading to a conclusion that there is nothing in common for these datasets. Systemic analysis may overcome this limitation, by focusing on functions represented by the identification names.

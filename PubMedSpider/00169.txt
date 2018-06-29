@@ -1,0 +1,5 @@
+[Title]
+Site-Specific Fluorescent Labeling of Antibodies and Diabodies Using SpyTag/SpyCatcher System for In Vivo Optical Imaging.
+
+[Astract]
+PURPOSE:Construction of antibody-based, molecular-targeted optical imaging probes requires the labeling of an antibody with a fluorophore. The most common method for doing this involves non-specifically conjugating a fluorophore to an antibody, resulting in poorly defined, heterogeneous imaging probes that often have suboptimal in vivo behavior. We tested a new strategy to site-specific label antibody-based imaging probes using the SpyCatcher/SpyTag protein ligase system.

@@ -1,0 +1,5 @@
+[Title]
+Purification of active recombinant human histone deacetylase 1 (HDAC1) overexpressed in Escherichia coli.
+
+[Astract]
+OBJECTIVE:We attempted to overexpress Human Histone Deacetylase 1 (HDAC1) in Escherichia coli.

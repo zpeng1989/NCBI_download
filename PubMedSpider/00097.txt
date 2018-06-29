@@ -1,0 +1,5 @@
+[Title]
+Apelin-12 exerts neuroprotective effect against ischemia-reperfusion injury by inhibiting JNK and P38MAPK signaling pathway in mouse.
+
+[Astract]
+OBJECTIVE:Cerebral ischemia is a common neurological disease, and its pathological process remains elusive. This study focused on the protective mechanism of Apelin-12 protein on the nervous system of mice during cerebral ischemia-reperfusion injury through JNK and P38MAPK signaling pathway.

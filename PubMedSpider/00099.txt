@@ -1,0 +1,5 @@
+[Title]
+Gemcitabine and cisplatin for treatment of lung cancer in vitro and vivo.
+
+[Astract]
+OBJECTIVE:To evaluate the antitumor activity of gemcitabine (GEM), cisplatin (DDP) as well as the combination of these two agents in lung cancer cells and mice.

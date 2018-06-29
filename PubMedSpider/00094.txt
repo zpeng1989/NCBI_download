@@ -1,0 +1,5 @@
+[Title]
+The effects of a sodium-glucose cotransporter 2 inhibitor on diabetic nephropathy and serum oxidized low-density lipoprotein levels.
+
+[Astract]
+OBJECTIVE:To investigate the effect of an SGLT-2 inhibitor on diabetic nephropathy and serum oxidized low-density lipoprotein (ox-LDL) levels.

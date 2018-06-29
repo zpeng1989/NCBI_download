@@ -1,0 +1,5 @@
+[Title]
+Highly Efficient Cell Penetrable Probes of Protein Arginine Deiminases (PADs) for Functional Proteomics.
+
+[Astract]
+Protein Arginine Deiminases (PADs) have recently emerged at the forefront of drug discovery programs in several human disorders. Despite this, precise understanding of their functional roles in human biology remain poorly defined. This report highlights a recent development of next generation activity-based PAD probes that are highly efficient, cell active, and metabolically stable. This discovery will rapidly expedite functional assignments of PAD biology in both normal and diseased cells, thereby leading the pathway for development of PAD-targeted therapeutics in the near future.

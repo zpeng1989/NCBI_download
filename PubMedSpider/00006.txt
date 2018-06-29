@@ -1,0 +1,5 @@
+[Title]
+The 72Pro Variant of the Tumor Protein 53 Is Associated with an Increased Breast Cancer Risk in the Moroccan Population.
+
+[Astract]
+BACKGROUND:The purpose of our case control study is to explore the potential association of tumor protein 53 (TP53) c.215G>C, p. (Arg72Pro) polymorphism (rs1042522) with the risk of breast cancer (BC) development in the Moroccan population.

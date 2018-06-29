@@ -1,0 +1,5 @@
+[Title]
+LncRNA PRNCR1 promoted the progression of eclampsia by regulating the MAPK signal pathway.
+
+[Astract]
+OBJECTIVE:We aimed to explore the expression level and biological function of lncRNA PRNCR1 in preeclampsia (PE).

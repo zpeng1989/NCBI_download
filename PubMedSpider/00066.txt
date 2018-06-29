@@ -1,0 +1,5 @@
+[Title]
+PET/CT of Dementia.
+
+[Astract]
+OBJECTIVE:In this article, we review the literature on PET/CT in the management of dementia, present evidence for best clinical practices, and discuss recent advances in the field.

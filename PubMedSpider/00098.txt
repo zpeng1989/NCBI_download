@@ -1,0 +1,5 @@
+[Title]
+Knockdown of ferroportin accelerates erastin-induced ferroptosis in neuroblastoma cells.
+
+[Astract]
+OBJECTIVE:Ferroptosis is a new-found iron-dependent form of non-apoptotic regulated cell death (RCD), which is activated on therapy with several antitumor agents, but the potential mechanism remains unclear. Erastin, exhibiting selectivity for RAS-mutated cancer cells, induces ferroptosis by increasing iron and lipid reactive oxygen species (ROS) levels in cell. Ferroportin (Fpn), the sole iron export protein, participates in the regulation of intracellular iron concentration. In this study, we investigated the role of Fpn on ferroptosis induced by erastin in SH-SY5Y cells.

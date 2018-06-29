@@ -1,0 +1,5 @@
+[Title]
+Aberrant NEK2 expression might be an independent predictor for poor recurrence-free survival and overall survival of skin cutaneous melanoma.
+
+[Astract]
+OBJECTIVE:Never in Mitosis (NIMA) Related Kinase 2 (Nek2) is a serine/threonine-protein kinase encoded by the NEK2 gene and is an essential enzyme in cell cycle progression. In this study, we investigated NEK2 expression profile, its independent prognostic value in terms of recurrence-free survival (RFS)/overall survival (OS), and the potential mechanisms of its dysregulation in melanoma.

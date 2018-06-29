@@ -1,0 +1,5 @@
+[Title]
+Consequences of Biomarker Analysis on the Cost-Effectiveness of Cetuximab in Combination with FOLFIRI as a First-Line Treatment of Metastatic Colorectal Cancer: Personalised Medicine at Work.
+
+[Astract]
+BACKGROUND:Therapies may be more efficacious when targeting a patient subpopulation with specific attributes, thereby enhancing the cost-effectiveness of treatment. In the CRYSTAL study, patients with metastatic colorectal cancer (mCRC) were treated with cetuximab plus FOLFIRI or FOLFIRI alone until disease progression, unacceptable toxic effects or withdrawal of consent.

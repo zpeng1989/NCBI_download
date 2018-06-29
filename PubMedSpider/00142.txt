@@ -1,0 +1,5 @@
+[Title]
+Efficient derivation of extended pluripotent stem cells from NOD-scid Il2rg<sup>-/-</sup> mice.
+
+[Astract]
+-/-

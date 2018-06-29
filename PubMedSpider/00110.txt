@@ -1,0 +1,5 @@
+[Title]
+Chemerin affects the metabolic and proliferative capabilities of chondrocytes by increasing the phosphorylation of AKT/ERK.
+
+[Astract]
+OBJECTIVE:The purpose of the present study was to explore the mechanism of action of the adipokine chemerin in osteoarthritis (OA) by means of an in vitro OA model.

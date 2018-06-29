@@ -1,0 +1,5 @@
+[Title]
+Study on the function and mechanism of long non-coding RNA DMTF1v4 in the occurrence of colon cancer.
+
+[Astract]
+OBJECTIVE:To investigate the expression of long non-coding RNA (lncRNA) DMTF1v4 in colon cancer, and the relationship between its expression and disease occurrence.

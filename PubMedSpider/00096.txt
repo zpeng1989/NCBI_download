@@ -1,0 +1,5 @@
+[Title]
+S100A8/A9 promotes MMP-9 expression in the fibroblasts from cardiac rupture after myocardial infarction by inducing macrophages secreting TNFα.
+
+[Astract]
+OBJECTIVE:Inflammation and extracellular matrix degradation play a role in cardiac rupture (CR) after myocardial infarction (MI). It has been found that the expression of inflammatory cytokine S100A8/A9 was elevated in acute MI patients, whereas its impact in CR after infarction remains unclear.
